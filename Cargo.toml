@@ -3,6 +3,9 @@ name = "mpegasus"
 version = "0.1.0"
 authors = ["Jeffrey Crocker <crockagile@gmail.com>"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "mpegasus"
+repository = "https://github.com/CrockAgile/mpegasus"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
